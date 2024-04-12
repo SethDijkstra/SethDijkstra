@@ -1,6 +1,7 @@
 # Hi there, I'm Seth! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/seth-dijkstra-62678a24b/)) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seth-dijkstra-62678a24b/)
+
 
 Welcome to my GitHub profile!
 
